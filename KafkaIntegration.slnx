@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="KafkaIntegration.Producer/KafkaIntegration.Producer.csproj" />
+  <Project Path="KafkaIntegration.AppHost/KafkaIntegration.AppHost.csproj" />
+  <Project Path="KafkaIntegration.Consumer/KafkaIntegration.Consumer.csproj" />
+  <Project Path="KafkaIntegration.Contracts/KafkaIntegration.Contracts.csproj" />
+  <Project Path="KafkaIntegration.ServiceDefaults/KafkaIntegration.ServiceDefaults.csproj" />
+</Solution>

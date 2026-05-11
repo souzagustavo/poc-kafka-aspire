@@ -1,0 +1,10 @@
+@ApiService_HostAddress = http://localhost:5375
+
+POST {{ApiService_HostAddress}}/orders
+Content-Type: application/json
+
+{  
+  "CustomerName" : "Teste",
+  "Total" :  10.56
+}
+###
